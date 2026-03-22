@@ -21,7 +21,7 @@ This project was created as part of my Python coursework. The goal was to practi
 - Sorting
 - Basic error handling with `try` / `except`
 
-- ## How to Run
+## How to Run
 1. Make sure Python is installed
 2. Open the project folder in a terminal
 3. Run:
