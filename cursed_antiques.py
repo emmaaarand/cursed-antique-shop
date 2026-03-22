@@ -1,7 +1,6 @@
 print("Welcome to The Cursed Antique Shop!")
 
 cursed_antiques = [
-    # ... your cursed antiques from part 1 go here ...
     "Talisman", 
     "Monkeys Paw", 
     "Cursed Mirror", 
@@ -20,9 +19,6 @@ shopping_cart = [
 ]
 
 user_quit = False
-
-# DO NOT CHANGE THE CODE ABOVE HERE
-# YOUR CODE BELOW HERE
 
 
 
